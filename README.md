@@ -19,6 +19,7 @@ Feel free to check them out! <br clear="left"/>
 - 🌳: [Python ML](), a project consisting of multiple ML experiments including: a Sudoku solver using backwards propagation and SAT solvers, Gomoku AI using MCTS, blackjack using MCT, both TD and Q-Learning, path finding using DFS, BFS, UCS, and A*, and a 2048 AI solver using expectimax + heuristics to achieve 20,000 average score
 - :leaves:: [Ray-tracer](), using OpenGL, a transformation stack, basic ray casting, soft shadows, interreflections, complex illumination, and a 
 (Updating list)
+
 <!--
 **garylli/garylli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
