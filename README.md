@@ -1,5 +1,4 @@
 # :wave: Hi there, I'm Gary.
-<img align="left" src="/profile-picture.jpeg">
 
 #### 🌱 I am a software engineer currently with a focus on full-stack development.
 
