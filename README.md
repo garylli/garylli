@@ -19,7 +19,6 @@ Feel free to check them out! <br clear="left"/>
 - 🌳: [Python ML](), a project consisting of multiple ML experiments including: a Sudoku solver using backwards propagation and SAT solvers, Gomoku AI using MCTS, blackjack using MCT, both TD and Q-Learning, path finding using DFS, BFS, UCS, and A*, and a 2048 AI solver using expectimax + heuristics to achieve 20,000 average score
 - :notebook_with_decorative_cover:: [Online Notes App](), a web-based app used for simple note storing with a node (express) & mongoDB backend and react front-end.
 - :leaves:: [Ray-tracer](), using OpenGL, a transformation stack, basic ray casting, soft shadows, interreflections, complex illumination, and basic acceleration structure using morton code BVH.
-(Updating list)
 
 <!--
 **garylli/garylli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
