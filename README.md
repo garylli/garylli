@@ -14,7 +14,7 @@ Feel free to check them out! <br clear="left"/>
 ☀️ Things I'm currently working on & learning about:
 - 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding, focused on bringing popular manga exclusive to Japan to an international market.
 - 🌳: [Python ML](), 
-- :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable networked file system using multiple servers, consistent hashing (hash rings), and [client]() used to sync directories to the cloud through RPCs.
+- :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable networked file system using multiple servers, consistent hashing (hash rings), and [clients]() used to sync directories to the cloud through RPC.
 (Updating list)
 <!--
 **garylli/garylli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
