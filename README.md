@@ -1,6 +1,21 @@
-# :wave: Hi there! My name's Gary
+# :wave: Hi there, I'm Gary.
+<img align="left" src="/profile-picture.jpeg">
 
+#### 🌱 I am a software engineer currently with a focus on full-stack development.
 
+2023 will be my final year as a Computer Science and Economics double major at UC San Diego. 
+
+While I'm searching for an internship to accompany my final year, I've been working on some stuff! 
+If you're interested in any of my work, I've listed some of my recent endeavors below. 
+
+Feel free to check them out!
+<br clear="left"/>
+
+---
+
+☀️ Things I'm currently working on & learning about:
+- 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding with a focus on bringing popular manga exclusive to Japan to an international market.
+- 
 <!--
 **garylli/garylli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
