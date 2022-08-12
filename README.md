@@ -14,7 +14,7 @@ Feel free to check them out! <br clear="left"/>
 ☀️ Things I'm currently working on & learning about:
 - :books:: Currently exploring **interaction-based design** and **javascript intricacies** (for breadth & personal projects)
 - 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding, focused on bringing popular manga exclusive to Japan to an international market.
-- :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable networked file system using multiple servers, consistent hashing (hash rings), and [clients]() used to sync directories to the cloud through RPC.
+- :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable networked file system using multiple servers deployed to a geographically-separated distributed system through AWS, implementing consistent hashing (hash rings), and [clients]() used to sync directories to the cloud through RPC.
 - :notebook_with_decorative_cover:: [Online Notes App](), a web-based app used for simple note storing with a node (express) & mongoDB backend and react front-end.
 - 🌳: [Python ML](), a project consisting of multiple ML experiments including: a Sudoku solver using backwards propagation and SAT solvers, Gomoku AI using MCTS, blackjack using MCT, both TD and Q-Learning, path finding using DFS, BFS, UCS, and A*, and a 2048 AI solver using expectimax + heuristics to achieve 20,000 average score
 - :leaves:: [Ray-tracer](), using OpenGL, a transformation stack, basic ray casting, soft shadows, interreflections, complex illumination, and a 
