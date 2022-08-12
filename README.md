@@ -7,8 +7,7 @@
 While I'm searching for an internship to accompany my final year, I've been working on some stuff! 
 If you're interested in any of my work, I've listed some of my recent endeavors below. 
 
-Feel free to check them out!
-<br clear="left"/>
+Feel free to check them out! <br clear="left"/>
 
 ---
 
