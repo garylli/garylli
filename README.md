@@ -14,8 +14,9 @@ Feel free to check them out!
 ---
 
 ☀️ Things I'm currently working on & learning about:
-- 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding with a focus on bringing popular manga exclusive to Japan to an international market.
-- 
+- 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding, focused on bringing popular manga exclusive to Japan to an international market.
+- 🌳: [Python ML](), 
+- :evergreen_tree::
 <!--
 **garylli/garylli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
