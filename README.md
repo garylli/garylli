@@ -15,7 +15,7 @@ Feel free to check them out! <br clear="left"/>
 - :books:: Currently exploring **interaction-based design** and **javascript intricacies** (for breadth & personal projects)
 - 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding rounds, focused on bringing popular manga exclusive to Japan to an international market.
 - :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable NFS using multiple servers deployed to a geographically-separated distributed system through AWS, implementing consistent hashing, and [clients]() used to sync directories to the cloud through RPC.
-- :sunrise_over_mountains:: [Mock UNIX System]():, a project based on implementing OS basics such as threading, synchronization (semaphores), scheduling, and processes, in a mock unix environment,
+- :sunrise_over_mountains:: [Mock UNIX System]():, a project based on implementing OS basics such as threading, synchronization (semaphores), scheduling, and processes, in a mock unix environment
 - 🌳: [Python ML](), a project consisting of multiple ML experiments including: a Sudoku solver using backwards propagation and SAT solvers, Gomoku AI using MCTS, blackjack using MCT, both TD and Q-Learning, path finding using DFS, BFS, UCS, and A*, and a 2048 AI solver using expectimax + heuristics to achieve 20,000 average score
 - :notebook_with_decorative_cover:: [Online Notes App](), a web-based app used for simple note storing with a node (express) & mongoDB backend and react front-end.
 - :leaves:: [Ray-tracer](), using OpenGL, a transformation stack, basic ray casting, soft shadows, interreflections, complex illumination, and basic acceleration structure using morton code BVH.
