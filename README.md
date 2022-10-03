@@ -4,7 +4,7 @@
 
 2023 will be my final year as a Computer Science and Economics double major at UC San Diego. 
 
-While I'm searching for an internship to accompany my final year, I've been working on some stuff! 
+While I'm searching for work opportunities to accompany my final year, I've been working on some stuff! 
 If you're interested in any of my work, I've listed some of my recent endeavors below. 
 
 Feel free to check them out! <br clear="left"/>
