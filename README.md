@@ -12,7 +12,7 @@ Feel free to check them out! <br clear="left"/>
 ---
 
 ☀️ Things I'm currently working on & learning about:
-- :books:: Currently exploring **product development** and **developing a personal portfolio website** (for personal projects)
+- :books:: Currently exploring **product development** and **developing a personal portfolio website** (for personal projects), as well as **architecturing the backend and implementing front-end for SNIIP**
 - 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding rounds, focused on bringing popular manga exclusive to Japan to an international market.
 - :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable NFS using multiple servers deployed to a geographically-separated distributed system through AWS, implementing consistent hashing, and [clients]() used to sync directories to the cloud through RPC.
 - :sunrise_over_mountains:: [Mock UNIX System](), a project based on implementing OS basics such as threading, synchronization (semaphores), scheduling, and processes, in a mock unix environment.
