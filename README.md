@@ -1,17 +1,16 @@
-# :wave: Hi there, I'm Gary.
+# Hi there, I'm Gary.
 
-#### 🌱 I am a software engineer currently with a focus on full-stack development.
+#### I am a software engineer currently with a focus on full-stack development.
 
-2023 will be my final year as a Computer Science and Economics double major at UC San Diego. 
+I am currently looking for internships or full-time opportunities while working on a small start-up.
 
-While I'm searching for work opportunities to accompany my final year, I've been working on some stuff! 
-If you're interested in any of my work, I've listed some of my recent endeavors below. 
+If you're interested in any of my work, I've listed some of my past projects below. 
 
 Feel free to check them out! <br clear="left"/>
 
 ---
 
-☀️ Things I'm currently working on & learning about:
+☀️ Things I've worked on or am learning about:
 - :books:: Currently exploring **product development** and **designing a personal portfolio website** (for personal projects), as well as **hiring new designers @ SNIIP**
 - 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding rounds, focused on bringing popular manga exclusive to Japan to an international market.
 - :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable NFS using multiple servers deployed to a geographically-separated distributed system through AWS, implementing consistent hashing, and [clients]() used to sync directories to the cloud through RPC.
