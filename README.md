@@ -1,6 +1,6 @@
 # Hi there, I'm Gary.
 
-#### I am a software engineer currently with a focus on full-stack development.
+#### I am a full-stack software engineer.
 
 I am currently looking for internships or full-time opportunities while working on a small start-up.
 
