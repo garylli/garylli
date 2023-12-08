@@ -2,7 +2,7 @@
 
 #### I am a full-stack software engineer.
 
-I am currently looking for internships or full-time opportunities while working on a small start-up.
+I am currently looking for internships or full-time opportunities.
 
 If you're interested in any of my work, I've listed some of my past projects below. 
 
@@ -11,7 +11,7 @@ Feel free to check them out! <br clear="left"/>
 ---
 
 ☀️ Things I've worked on or am learning about:
-- :books:: Currently exploring **product development** and **designing a personal portfolio website** (for personal projects), as well as **hiring new designers @ SNIIP**
+- :books:: Currently exploring (or want to explore) **Kubernetes/Docker & Containerization, Kernel Namespaces, Reverse Proxies, CDNs, Javascript Protocols, Typescript, Express Best Practices** while working on projects.
 - 📖: [Sniip](http://mangasnip.herokuapp.com/), a manga start-up currently entering seeding rounds, focused on bringing popular manga exclusive to Japan to an international market.
 - :evergreen_tree:: [Drop-Box Clone](), a horizontal scalable NFS using multiple servers deployed to a geographically-separated distributed system through AWS, implementing consistent hashing, and [clients]() used to sync directories to the cloud through RPC.
 - :sunrise_over_mountains:: [Mock UNIX System](), a project based on implementing OS basics such as threading, synchronization (semaphores), scheduling, and processes, in a mock unix environment.
