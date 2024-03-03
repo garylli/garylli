@@ -1,8 +1,6 @@
 # Hi there, I'm Gary.
 
-#### I am a full-stack software engineer.
-
-I am currently looking for internships or full-time opportunities.
+#### I'm a software engineer currently working @ Altera.
 
 If you're interested in any of my work, I've listed some of my past projects below. 
 
